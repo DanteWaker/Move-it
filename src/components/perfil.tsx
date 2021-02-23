@@ -3,7 +3,7 @@
 export function Profile() {
     return (
         <div>
-            <img ser=""
+            <img ser="" />
         </div>
     );
 }
