@@ -1,3 +1,14 @@
+## Move.it
+Projeto feito durante a quarta edição do Next Level Week, fico extremamente feliz de conseguir terminar e entender o contaúdo dado nas aulas, muito obrigado a todos da Rocketseat :)
+
+## Projeto
+Projeto voltado para ajudar quem fica várias horas na frente do computador, com foco em cronometrar o tempo de trabalho focado, e logo depois disso, realizar alguma atividade para não se ter problemas futuros, ou evitar ao máximo, utilizando um jogo que te dá experiência conforme você cumpre as atividades, e armazenando seus dados nos COOKIES do navegador.
+
+Ainda não vi as dicas, mas acho que ele vai pedir para fazer um sistema de login, que é oq eu penso, para que apareça ali os dados da pessoa.
+
+Ainda vou dá o meu toque no projeto, assim que possível, antes da live que vai ocorrer, quando eu fizer isso, vou descrever aqui o que foi feito de diferente.
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
